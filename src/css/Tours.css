@@ -1,0 +1,13 @@
+#TourDisplay {
+  width: 80%;
+}
+
+.Title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5em;
+  padding: 24px 0;
+}
+
+
